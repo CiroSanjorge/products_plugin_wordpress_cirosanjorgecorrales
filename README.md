@@ -1,0 +1,2 @@
+# products_plugin_wordpress_cirosanjorgecorrales
+Wordpress test plugin
